@@ -221,10 +221,10 @@ function PricingPage() {
             <span className="font-bold text-gray-900">btechified</span>
           </div>
           <div className="flex gap-8 text-sm text-gray-500 font-medium">
-            <a href="#" className="hover:text-brand transition-colors">Courses</a>
-            <a href="#" className="hover:text-brand transition-colors">Pricing</a>
-            <a href="#" className="hover:text-brand transition-colors">For Schools</a>
-            <a href="#" className="hover:text-brand transition-colors">Contact</a>
+            <a href="/inside" className="hover:text-brand transition-colors">Courses</a>
+            <a href="#" className="text-brand font-bold">Pricing</a>
+            <a href="/colleges" className="hover:text-brand transition-colors">For Schools</a>
+            <a href="/contact" className="hover:text-brand transition-colors">Contact</a>
           </div>
           <p className="text-sm text-gray-400">© 2025 btechified. Made for KTU Students.</p>
         </div>
