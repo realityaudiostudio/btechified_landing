@@ -4,69 +4,69 @@ import "./landing.css";
 
 // --- Mock Data for Colleges (Uniform Structure) ---
 const partnerColleges = [
+//   {
+//     id: 1,
+//     name: "Model Engineering College",
+//     location: "Kochi, Ernakulam",
+//     joined: "2024",
+//     students: "850+"
+//   },
+//   {
+//     id: 2,
+//     name: "TKM Institute of Technology",
+//     location: "Kollam",
+//     joined: "2023",
+//     students: "1,500+"
+//   },
+//   {
+//     id: 3,
+//     name: "Royal College of Engineering",
+//     location: "Thrissur",
+//     joined: "2024",
+//     students: "1,200+"
+//   },
   {
     id: 1,
-    name: "Model Engineering College",
-    location: "Kochi, Ernakulam",
-    joined: "2024",
-    students: "850+"
-  },
-  {
-    id: 2,
-    name: "TKM Institute of Technology",
-    location: "Kollam",
-    joined: "2023",
-    students: "1,500+"
-  },
-  {
-    id: 3,
-    name: "Royal College of Engineering",
-    location: "Thrissur",
-    joined: "2024",
-    students: "1,200+"
-  },
-  {
-    id: 4,
     name: "Jyothi Engineering College",
     location: "Thrissur",
-    joined: "2023",
-    students: "1,100+"
-  },
-  {
-    id: 5,
-    name: "Saintgits College",
-    location: "Kottayam",
     joined: "2025",
-    students: "900+"
-  },
-  {
-    id: 6,
-    name: "Muthoot Institute",
-    location: "Kochi",
-    joined: "2024",
-    students: "600+"
-  },
-  {
-    id: 7,
-    name: "Rajagiri School of Engineering",
-    location: "Kochi",
-    joined: "2023",
-    students: "2,000+"
-  },
-  {
-    id: 8,
-    name: "College of Engineering Trivandrum",
-    location: "Trivandrum",
-    joined: "2023",
-    students: "2,500+"
-  },
-  {
-    id: 9,
-    name: "SCT College of Engineering",
-    location: "Trivandrum",
-    joined: "2024",
-    students: "1,100+"
+    students: "100+"
   }
+//   {
+//     id: 5,
+//     name: "Saintgits College",
+//     location: "Kottayam",
+//     joined: "2025",
+//     students: "900+"
+//   },
+//   {
+//     id: 6,
+//     name: "Muthoot Institute",
+//     location: "Kochi",
+//     joined: "2024",
+//     students: "600+"
+//   },
+//   {
+//     id: 7,
+//     name: "Rajagiri School of Engineering",
+//     location: "Kochi",
+//     joined: "2023",
+//     students: "2,000+"
+//   },
+//   {
+//     id: 8,
+//     name: "College of Engineering Trivandrum",
+//     location: "Trivandrum",
+//     joined: "2023",
+//     students: "2,500+"
+//   },
+//   {
+//     id: 9,
+//     name: "SCT College of Engineering",
+//     location: "Trivandrum",
+//     joined: "2024",
+//     students: "1,100+"
+//   }
 ];
 
 const testimonials = [
