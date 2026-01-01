@@ -27,7 +27,8 @@ function LandingPage() {
 
             <button 
 
-              onClick={() => navigate("/login")} 
+              onClick={() => window.location.href = "https://app.btechified.in/"} 
+              
 
               className="hidden sm:block text-gray-600 font-medium hover:text-brand transition-colors"
 
