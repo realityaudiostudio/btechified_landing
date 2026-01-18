@@ -205,7 +205,7 @@ function Colleges() {
                     </div>
                 ))}
             </div>
-
+    {/*
             <div className="mt-12 text-center">
                  <button className="text-gray-500 font-medium hover:text-brand transition-colors border-b border-gray-300 hover:border-brand pb-0.5">
                     View all 25+ partner colleges
@@ -213,7 +213,7 @@ function Colleges() {
             </div>
         </div>
       </section>
-
+*/}
       {/* --- Testimonials --- */}
       <section className="py-24 bg-gray-50">
           <div className="max-w-7xl mx-auto px-6">
